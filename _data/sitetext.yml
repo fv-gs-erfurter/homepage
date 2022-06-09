@@ -11,10 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Willkommen auf der Internetseite des
+    text: Förderverein der Schule Erfurter Straße e.V.
+    button: Über den Verein
+    buttonlink: "#about"
+
+  about:
+    title: "Über den Verein"
+    body1: "Am 14. Oktober 2020 trafen sich 14 Gründungsmitglieder um gemeinsam den ersten Grundstein für den Förderverein der Schule Erfurter Straße Leipzig e. V. zu legen. Anfang 2021 hatten wir dann den Schritt zum eingetragenen Verein und zur Gemeinnützigkeit geschafft. Wir haben das Ziel, verschiedene Projekte für unsere neue Schule und den Hort zu unterstützen und mit zu gestalten, um damit den Schulalltag für unsere Kinder noch liebevoller und attraktiver zu machen.
+    Dabei ist es primär unsere Aufgabe, finanzielle Mittel über die Mitgliedsbeiträge und Spenden zu generieren, zu verwalten und auf dann Antrag von Schule oder Hort konkrete Projekte aus diesen Mitteln zu fördern."
+    body2: "Aktuell haben wir rund 70 Mitglieder, aber wir möchten noch viele mehr werden.
+    Bitte unterstützen Sie uns zum Wohle der Kinder! Werden Sie für nur 15 Euro jährlich Mitglied im Verein oder unterstützen Sie uns durch Spenden."
+    einleitung: "Der ehrenamtlich tätige Vereinsvorstand:"
+    vorsitzende: Rosel Oberender
+    1stellvertreter: Britt Katzenmaier
+    2stellvertreter: Thomas Matz
+    hort: Antje Virgilio-Dorn
+    elternschaft: Sabine Sommer
+    section: about
 
   services:
     title: "Services"
@@ -67,12 +81,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
