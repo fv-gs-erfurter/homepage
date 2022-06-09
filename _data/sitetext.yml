@@ -30,6 +30,32 @@ en: &DEFAULT_EN
     elternschaft: Sabine Sommer
     section: about
 
+  timeline:
+    title: "Historie"
+    text: "Hier die wichtigsten Ereignisse in der Geschichte des Vereins"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Wolle für Handarbeits- und Bastelangebote im Hort"
+        year: "März 2022"
+      - title: "Pfannkuchen für alle Kinder zum Fasching"
+        year: "März 2022"
+      - title: "Schullizenz für Antolin (Programm zur Leseförderung)"
+        year: "Januar 2022"
+      - title: "Getränkestand des Fördervereins zum Schulanfang"
+        year: "September 2021"
+      - title: "Crowdfunding für den Schulgarten"
+        year: "August 2021"
+      - title: "Eis für jedes Kind zum letzten Schultag"
+        year: "Juli 2021"
+      - title: "Pflanzen und Erde für die Innenräume der Schule"
+        year: "Juli 2021"
+      - title: "Eis für jedes Kind zum Kindertag"
+        year: "Juni 2021"
+      - title: "Gründung"
+        year: "14. Oktober 2020"
+
   services:
     title: "Services"
     text: "Lorem ipsum"
@@ -50,37 +76,6 @@ en: &DEFAULT_EN
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   clients:
     section: clients
