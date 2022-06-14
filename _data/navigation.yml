@@ -15,10 +15,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Historie"
       section: timeline
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "Kontakt"
       section: contact
 en-US:
