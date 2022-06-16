@@ -28,6 +28,7 @@ en: &DEFAULT_EN
     2stellvertreter: Thomas Matz
     hort: Antje Virgilio-Dorn
     elternschaft: Sabine Sommer
+    zursatzung: "Hier finden Sie die aktuelle Version unserer Satzung"
     section: about
 
   timeline:
@@ -55,6 +56,13 @@ en: &DEFAULT_EN
         year: "Juni 2021"
       - title: "Gründung"
         year: "14. Oktober 2020"
+
+  mitglied:
+    section: mitglied
+    title: Mitglied Werden
+    text1: "Einfach den Mitgliedsantrag ausfüllen und uns per <a href=\"mailto:foerderverein.gs.erfurterstrasse@gmail.com\">E-Mail</a> schicken oder in der Schule abgeben bzw. zu Händen des Fördervereins in den Briefkasten werfen. Den Mitgliedsbeitrag am besten gleich überweisen (Kontoverbindung steht auf dem Antrag) und schon seid ihr Mitglied."
+    text2: "Spenden können jederzeit gern auf unser Vereinskonto überwiesen werden. Eine Spendenbescheinigung stellen wir auf Wunsch aus."
+    antrag: Mitgliedsantrag
 
   services:
     title: "Services"
@@ -139,11 +147,11 @@ en: &DEFAULT_EN
     name2: "Grundschule Erfurter Straße"
     street: "Erfurter Straße 14"
     city: "04155 Leipzig"
-    email: "foerderverein.gs.erfurter@gmail.com"
+    email: "foerderverein.gs.erfurterstrasse@gmail.com"
 
   footer:
     cookies: "Wir mögen keine <img src='assets/img/cookie.gif' style='width: 18px' />, wir sind allergisch!"
-    
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

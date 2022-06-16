@@ -1,0 +1,23 @@
+
+<!-- Mitglied -->
+<section class="page-section" id="{{ site.data.sitetext[site.locale].mitglied.section | default: "mitglied" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].mitglied.title | default: "Mitglied werden" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="larger text-muted">{{ site.data.sitetext[site.locale].mitglied.text1 | markdownify }}</div>
+        <div class="larger text-muted">{{ site.data.sitetext[site.locale].mitglied.text2 | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h5><a href="assets/AnmeldeformularFVErfurterStrasse.pdf" target="_blank">{{ site.data.sitetext[site.locale].mitglied.antrag }}</a></h5>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Mitglied -->
