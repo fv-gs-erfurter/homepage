@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Willkommen auf der Internetseite des
-    text: Förderverein der Schule Erfurter Straße e.V.
+    text: Förderverein der Schule Erfurter Straße Leipzig e.V.
     button: Über den Verein
     buttonlink: "#about"
 
