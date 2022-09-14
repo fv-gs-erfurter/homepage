@@ -32,12 +32,18 @@ en: &DEFAULT_EN
     section: about
 
   timeline:
-    title: "Historie"
+    title: "Was wir erreicht haben"
     text: "Hier die wichtigsten Ereignisse in der Geschichte des Vereins"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
+      - title: "Anschaffung einer Soundanlage"
+        year: "Juli 2022"
+      - title: "Eis für jedes Kind zum letzten Schultag"
+        year: "Juli 2022"
+      - title: "Getränkeverkauf zum Schulfest"
+        year: "Juli 2022"
       - title: "Wolle für Handarbeits- und Bastelangebote im Hort"
         year: "März 2022"
       - title: "Pfannkuchen für alle Kinder zum Fasching"
@@ -64,21 +70,15 @@ en: &DEFAULT_EN
     text2: "Spenden können jederzeit gern auf unser Vereinskonto überwiesen werden. Eine Spendenbescheinigung stellen wir auf Wunsch aus."
     antrag: Mitgliedsantrag
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  sponsoren:
+    title: "Sponsoren"
+    text: "Besonders bedanken wir uns bei folgenden Spendern"
+    section: sponsoren
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+      - title: "Nico Wesemann"
+      - title: "Fachpraxis Crostewitz"
+        link: "https://www.fachpraxis-crostewitz.de"
+      - title: "Ehrlich Friseur"
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."

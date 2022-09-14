@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Mitglied werden"
       section: mitglied
+    - title: "Sponsoren"
+      section: sponsoren
     - title: "Kontakt"
       section: contact
 en-US:
