@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Über den Verein"
-    body1: "Am 14. Oktober 2020 trafen sich 14 Gründungsmitglieder um gemeinsam den ersten Grundstein für den Förderverein der Schule Erfurter Straße Leipzig e. V. zu legen. Anfang 2021 hatten wir dann den Schritt zum eingetragenen Verein und zur Gemeinnützigkeit geschafft. Wir haben das Ziel, verschiedene Projekte für unsere neue Schule und den Hort zu unterstützen und mit zu gestalten, um damit den Schulalltag für unsere Kinder noch liebevoller und attraktiver zu machen.
+    body1: "Am 14. Oktober 2020 trafen sich 14 Gründungsmitglieder um gemeinsam den ersten Grundstein für den Förderverein der Schule Erfurter Straße Leipzig e. V. zu legen. Anfang 2021 hatten wir dann den Schritt zum eingetragenen Verein und zur Gemeinnützigkeit geschafft. Wir haben das Ziel, verschiedene Projekte für unsere neue Schule und den Hort zu unterstützen und mit zu gestalten, um damit den Schulalltag für unsere Kinder noch liebevoller und attraktiver zu machen.
     Dabei ist es primär unsere Aufgabe, finanzielle Mittel über die Mitgliedsbeiträge und Spenden zu generieren, zu verwalten und auf dann Antrag von Schule oder Hort konkrete Projekte aus diesen Mitteln zu fördern."
     body2: "Aktuell haben wir rund 70 Mitglieder, aber wir möchten noch viele mehr werden.
     Bitte unterstützen Sie uns zum Wohle der Kinder! Werden Sie für nur 15 Euro jährlich Mitglied im Verein oder unterstützen Sie uns durch Spenden."
@@ -30,6 +30,11 @@ en: &DEFAULT_EN
     elternschaft: Sabine Sommer
     zursatzung: "Hier finden Sie die aktuelle Version unserer Satzung"
     section: about
+    aufruf: "Aufruf zur Mitarbeit im Vorstand unseres Fördervereins"
+    aufruftext: "Im Frühjahr 2024 steht wieder die Jahreshauptversammlung und in diesem Zusammenhang auch die
+    Neuwahl des Vorstandes an. Einige Position werden dann frei und müssen neu besetzt werden.
+    Wenn Sie also Interesse haben und sich im Verein einbringen wollen, können Sie gerne auf eines der
+    aktuellen Vorstandsmitglieder zukommen und gegeebenfalls vorhandene Fragen klären."
 
   timeline:
     title: "Was wir erreicht haben"
@@ -38,30 +43,33 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Anschaffung einer Soundanlage"
-        year: "Juli 2022"
-      - title: "Eis für jedes Kind zum letzten Schultag"
-        year: "Juli 2022"
-      - title: "Anschaffung Jugger-Materialen"
-        year: "Juli 2022"
-      - title: "Getränkeverkauf zum Schulfest"
-        year: "Juni 2022"
-      - title: "Wolle für Handarbeits- und Bastelangebote im Hort"
-        year: "März 2022"
-      - title: "Pfannkuchen für alle Kinder zum Fasching"
-        year: "März 2022"
-      - title: "Schullizenz für Antolin (Programm zur Leseförderung)"
-        year: "Januar 2022"
-      - title: "Getränkestand des Fördervereins zum Schulanfang"
-        year: "September 2021"
+      - title: "Getränkeverkauf zum Schulfest und Schulanfang<br>
+      Anschaffung Antolin Schullizenz<br>
+      Weitere Ausstattungen für den Schulgartens<br>
+      Weihnachtsdeko Schulhaus<br>
+      Pfannkuchen Fasching<br>
+      Putzmittel für Frühjahrsputz- alle Klassen säubern die Schule<br>
+      Kunstprojekt Klasse 3<br>
+      Fotoboxmiete für Abschlussball 4. Klassen<br>
+      Anschaffung Fröbelturm, Material Kunstaustellung für Schulfest<br>
+      Kaffeemaschine mit Pumpkanne und Getränke zum Schulfest<br>
+      Miete Bühnentechnik für Schulfest<br>
+      Abschiedsgeschenke Klassen 4<br>
+      Anschaffung EC Kartengerät<br>
+      Kleiderstange für Hort<br>
+      Fussbodenaufkleber als Schuhabdrücke für die Hortgarderoben"
+        year: "2023"
+      - title: "Getränkeverkauf zum Schulfest<br>
+      Schullizenz für Antolin (Programm zur Leseförderung)<br>
+      Pfannkuchen für alle Kinder zum Fasching<br>
+      Wolle für Handarbeits- und Bastelangebote im Hort<br>
+      Anschaffung Jugger-Materialen<br>
+      Eis für jedes Kind zum letzten Schultag<br>
+      Anschaffungen für die Entstehung des Schulgarten<br>
+      Anschaffung einer Soundanlage"
+        year: "2022"
       - title: "Crowdfunding für den Schulgarten"
-        year: "August 2021"
-      - title: "Eis für jedes Kind zum letzten Schultag"
-        year: "Juli 2021"
-      - title: "Pflanzen und Erde für die Innenräume der Schule"
-        year: "Juli 2021"
-      - title: "Eis für jedes Kind zum Kindertag"
-        year: "Juni 2021"
+        year: "2021"
       - title: "Gründung"
         year: "14. Oktober 2020"
 
@@ -77,6 +85,7 @@ en: &DEFAULT_EN
     text: "Besonders bedanken wir uns bei folgenden Spendern"
     section: sponsoren
     list:
+      - title: "Sebastian Runow"
       - title: "Nico Wesemann"
       - title: "Fachpraxis Crostewitz"
         link: "https://www.fachpraxis-crostewitz.de"
