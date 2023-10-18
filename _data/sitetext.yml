@@ -40,8 +40,6 @@ en: &DEFAULT_EN
     title: "Was wir erreicht haben"
     text: "Hier die wichtigsten Ereignisse in der Geschichte des Vereins"
     section: timeline
-    # left is the default
-    #start_align: "left"
     events:
       - title: "Getränkeverkauf zum Schulfest und Schulanfang<br>
       Anschaffung Antolin Schullizenz<br>

@@ -7,7 +7,6 @@
     position: absolute;
     top: 0;
     bottom: 0;
-    left: 40px;
     width: 2px;
     margin-left: -1.5px;
     content: "";
@@ -26,9 +25,9 @@
     }
     .timeline-panel {
       position: relative;
-      float: right;
+      float: left;
       width: 100%;
-      padding: 0 20px 0 100px;
+      padding: 3px 25px 0 100px;
       text-align: left;
       &:before {
         right: auto;
@@ -62,8 +61,8 @@
       }
     }
     &.timeline-inverted > .timeline-panel {
-      float: right;
-      padding: 0 20px 0 100px;
+      float: left;
+      padding: 3px 25px 0 100px;
       text-align: left;
       &:before {
         right: auto;
@@ -101,18 +100,13 @@
 }
 @media (min-width: 768px) {
   .timeline {
-    &:before {
-      left: 50%;
-    }
     > li {
       .timeline-panel {
         float: left;
-        width: 48%;
-        padding: 0 20px 20px 30px;
+        padding: 0 25px 20px 30px;
         text-align: right;
       }
       .timeline-image {
-        left: 50%;
         width: 20px;
         height: 20px;
         margin-left: -10px;
@@ -123,7 +117,7 @@
         }
       }
       &.timeline-inverted > .timeline-panel {
-        float: right;
+        float: left;
         padding: 0 30px 20px 20px;
         text-align: left;
       }
@@ -134,7 +128,7 @@
   .timeline {
     > li {
       .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 4px 25px 20px;
       }
       .timeline-image {
         width: 30px;
@@ -147,7 +141,7 @@
         }
       }
       &.timeline-inverted > .timeline-panel {
-        padding: 0 20px 20px;
+        padding: 4px 25px 20px;
       }
     }
   }
@@ -156,7 +150,7 @@
   .timeline {
     > li {
       .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 8px 20px 20px 100px;
       }
       .timeline-image {
         width: 40px;
@@ -167,7 +161,7 @@
         }
       }
       &.timeline-inverted > .timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 8px 100px 20px 25px;
       }
     }
   }
