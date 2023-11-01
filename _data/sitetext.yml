@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Über den Verein"
     body1: "Am 14. Oktober 2020 trafen sich 14 Gründungsmitglieder um gemeinsam den ersten Grundstein für den Förderverein der Schule Erfurter Straße Leipzig e. V. zu legen. Anfang 2021 hatten wir dann den Schritt zum eingetragenen Verein und zur Gemeinnützigkeit geschafft. Wir haben das Ziel, verschiedene Projekte für unsere neue Schule und den Hort zu unterstützen und mit zu gestalten, um damit den Schulalltag für unsere Kinder noch liebevoller und attraktiver zu machen.
     Dabei ist es primär unsere Aufgabe, finanzielle Mittel über die Mitgliedsbeiträge und Spenden zu generieren, zu verwalten und auf dann Antrag von Schule oder Hort konkrete Projekte aus diesen Mitteln zu fördern."
-    body2: "Aktuell haben wir rund 70 Mitglieder, aber wir möchten noch viele mehr werden.
+    body2: "Aktuell haben wir rund 83 Mitglieder, aber wir möchten noch viele mehr werden.
     Bitte unterstützen Sie uns zum Wohle der Kinder! Werden Sie für nur 15 Euro jährlich Mitglied im Verein oder unterstützen Sie uns durch Spenden."
     einleitung: "Der ehrenamtlich tätige Vereinsvorstand:"
     vorsitzende: Rosel Oberender
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
     zursatzung: "Hier finden Sie die aktuelle Version unserer Satzung"
     section: about
     aufruf: "Aufruf zur Mitarbeit im Vorstand unseres Fördervereins"
-    aufruftext: "Im Frühjahr 2024 steht wieder die Jahreshauptversammlung und in diesem Zusammenhang auch die
+    aufruftext: "Im Oktober 2024 steht wieder die Jahreshauptversammlung und in diesem Zusammenhang auch die
     Neuwahl des Vorstandes an. Einige Position werden dann frei und müssen neu besetzt werden.
     Wenn Sie also Interesse haben und sich im Verein einbringen wollen, können Sie gerne auf eines der
-    aktuellen Vorstandsmitglieder zukommen und gegeebenfalls vorhandene Fragen klären."
+    aktuellen Vorstandsmitglieder zukommen und gegebenenfalls vorhandene Fragen klären."
 
   timeline:
     title: "Was wir erreicht haben"
@@ -57,7 +57,8 @@ en: &DEFAULT_EN
       Kleiderstange für Hort<br>
       Fussbodenaufkleber als Schuhabdrücke für die Hortgarderoben"
         year: "2023"
-      - title: "Getränkeverkauf zum Schulfest<br>
+      - title: "Finanzielle Unterstützung des Schulfestes<br>
+      Getränkeverkauf zum Schulfest und zum Schuljahresanfang<br>
       Schullizenz für Antolin (Programm zur Leseförderung)<br>
       Pfannkuchen für alle Kinder zum Fasching<br>
       Wolle für Handarbeits- und Bastelangebote im Hort<br>
@@ -66,7 +67,10 @@ en: &DEFAULT_EN
       Anschaffungen für die Entstehung des Schulgarten<br>
       Anschaffung einer Soundanlage"
         year: "2022"
-      - title: "Crowdfunding für den Schulgarten"
+      - title: "Crowdfunding für den Schulgarten<br>
+      Eis für jedes Kind am Kindertag und zum Schuljahresende<br>
+      Getränkeverkauf zum Schuljahresanfang<br>
+      Pflanzen und Erde für die Innenräume der Schule"
         year: "2021"
       - title: "Gründung"
         year: "14. Oktober 2020"
