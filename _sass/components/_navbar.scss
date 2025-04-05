@@ -12,14 +12,14 @@
     @include heading-font;
   }
   .navbar-brand {
-    color: lighten($primary, 10%);
+    color: color.adjust($primary, $lightness: 10%);
     text-shadow: 2px 2px 3px black;
     @include heading-font;
     &.active,
     &:active,
     &:focus,
     &:hover {
-      color: lighten($primary, 30%);
+      color: color.adjust($primary, $lightness: 30%);
     }
   }
   .navbar-nav {
@@ -33,7 +33,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: lighten($primary, 50%);
+          color: color.adjust($primary, $lightness: 50%);
         }
       }
     }

@@ -1,9 +1,11 @@
 ---
 ---
+@use "sass:color";
 @charset "utf-8";
 // Core variables and mixins
 @import "base/variables.scss";
 @import "base/mixins.scss";
+
 
 // Custom colors
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
@@ -50,4 +52,8 @@ $contact-image: "{{ site.data.style.contact-image }}";
 }
 .aufruf h5 {
   color: $primary;
+}
+.konto {
+  border-spacing: 10px 0px;
+  border-collapse: separate;
 }

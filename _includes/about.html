@@ -7,6 +7,12 @@
       </div>
     </div>
     <div class="row">
+      <div class="col-lg-8 mx-auto aufruf">
+        <h5>{{ site.data.sitetext[site.locale].about.aufruf | markdownify }}</h5>
+        <div>{{ site.data.sitetext[site.locale].about.aufruftext | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="larger text-muted">{{ site.data.sitetext[site.locale].about.body1 | markdownify }}</div>
         <div class="larger text-muted">{{ site.data.sitetext[site.locale].about.body2 | markdownify }}</div>
@@ -25,12 +31,6 @@
         <div><b>2. Stellvertreter:</b> {{ site.data.sitetext[site.locale].about.2stellvertreter }}</div>
         <div><b>Vertreterin Hort:</b> {{ site.data.sitetext[site.locale].about.hort }}</div>
         <div><b>Vertreterin Elternschaft:</b> {{ site.data.sitetext[site.locale].about.elternschaft }}</div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-8 mx-auto aufruf">
-        <h5>{{ site.data.sitetext[site.locale].about.aufruf | markdownify }}</h5>
-        <div>{{ site.data.sitetext[site.locale].about.aufruftext | markdownify }}</div>
       </div>
     </div>
   </div>

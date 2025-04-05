@@ -10,12 +10,24 @@
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="larger text-muted">{{ site.data.sitetext[site.locale].mitglied.text1 | markdownify }}</div>
-        <div class="larger text-muted">{{ site.data.sitetext[site.locale].mitglied.text2 | markdownify }}</div>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
         <h5><a href="assets/AnmeldeformularFVErfurterStrasse.pdf" target="_blank">{{ site.data.sitetext[site.locale].mitglied.antrag }}</a></h5>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="larger text-muted">{{ site.data.sitetext[site.locale].mitglied.text2 | markdownify }}</div>
+        <div class="larger">
+          <table class="konto">
+            <tr><td>Empfänger:</td><td>{{ site.data.sitetext[site.locale].mitglied.empfaenger }}</td></tr>
+            <tr><td>IBAN:</td><td>{{ site.data.sitetext[site.locale].mitglied.iban }}</td></tr>
+            <tr><td>BIC:</td><td>{{ site.data.sitetext[site.locale].mitglied.bic }}</td></tr>
+            <tr><td>Verwendungszweck:</td><td>{{ site.data.sitetext[site.locale].mitglied.zweck }}</td></tr>
+          </table>
+        </div>
       </div>
     </div>
   </div>

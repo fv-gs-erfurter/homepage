@@ -17,30 +17,56 @@ en: &DEFAULT_EN
     buttonlink: "#about"
 
   about:
-    title: "Über den Verein"
+    title: Über den Verein
+    aufruf: "News zur Umbenennung des Fördervereins"
+    aufruftext: "Aktuell warten wir darauf, dass das Amtsgericht Leipzig offiziell unsere Umbenennung zum \"Förderverein Schule am Rosental e.V.\" genehmigt. Leider können wir erst dann offiziell unsere Website entsprechend ändern."
     body1: "Am 14. Oktober 2020 trafen sich 14 Gründungsmitglieder um gemeinsam den ersten Grundstein für den Förderverein der Schule Erfurter Straße Leipzig e. V. zu legen. Anfang 2021 hatten wir dann den Schritt zum eingetragenen Verein und zur Gemeinnützigkeit geschafft. Wir haben das Ziel, verschiedene Projekte für unsere neue Schule und den Hort zu unterstützen und mit zu gestalten, um damit den Schulalltag für unsere Kinder noch liebevoller und attraktiver zu machen.
     Dabei ist es primär unsere Aufgabe, finanzielle Mittel über die Mitgliedsbeiträge und Spenden zu generieren, zu verwalten und auf dann Antrag von Schule oder Hort konkrete Projekte aus diesen Mitteln zu fördern."
-    body2: "Aktuell haben wir rund 83 Mitglieder, aber wir möchten noch viele mehr werden.
+    body2: "Aktuell haben wir rund 93 Mitglieder, aber wir möchten noch viele mehr werden.
     Bitte unterstützen Sie uns zum Wohle der Kinder! Werden Sie für nur 15 Euro jährlich Mitglied im Verein oder unterstützen Sie uns durch Spenden."
     einleitung: "Der ehrenamtlich tätige Vereinsvorstand:"
     vorsitzende: Rosel Oberender
-    1stellvertreter: Britt Katzenmaier
+    1stellvertreter: Stephanie Venus
     2stellvertreter: Thomas Matz
     hort: Antje Virgilio-Dorn
-    elternschaft: Sabine Sommer
+    elternschaft: Ulrike Heydecke
     zursatzung: "Hier finden Sie die aktuelle Version unserer Satzung"
     section: about
-    aufruf: "Aufruf zur Mitarbeit im Vorstand unseres Fördervereins"
-    aufruftext: "Im Oktober 2024 steht wieder die Jahreshauptversammlung und in diesem Zusammenhang auch die
-    Neuwahl des Vorstandes an. Einige Position werden dann frei und müssen neu besetzt werden.
-    Wenn Sie also Interesse haben und sich im Verein einbringen wollen, können Sie gerne auf eines der
-    aktuellen Vorstandsmitglieder zukommen und gegebenenfalls vorhandene Fragen klären."
 
   timeline:
     title: "Was wir erreicht haben"
     text: "Hier die wichtigsten Ereignisse in der Geschichte des Vereins"
     section: timeline
     events:
+      - title: "Finanzielle Unterstützung zum Schulfest und Tag der offenen Tür<br>
+      Anschaffung Antolin Schullizenz und Schulbibliothekssoftware<br>
+      Vitrine für die Schule - dank Spendenlauf 2024<br>
+      Klettergerüst - dank Spendenlauf 2024<br>
+      Anschaffung von 3 Pavillions<br>
+      Druckkosten Schülerzeitung<br>
+      Brandschutzsbilderrahmen für Schulhaus<br>
+      Lebensmittelgutscheine Kinderküche Hort<br>
+      Namensschilder für Schule<br>
+      Miete Bühnentechnik und Bierbänke für Schulfest<br>
+      Känguru-Wettbewerb-Kosten<br>
+      Abschiedsgeschenke Klassen 4 - dank Spendenlauf 2024"
+        year: "2025"
+      - title: "Finanzielle Unterstützung zum Schulfest und Tag der offenen Tür<br>
+      Finanzielle Förderung der Projektwoche zur Schulumbenennung zu Schule am Rosental<br>
+      Getränkeverkauf zum Schulanfang und Projektwoche<br>
+      Anschaffung Antolin Schullizenz<br>
+      Weitere Ausstattungen für den Schulgartens<br>
+      Adventskalender mit neuen Spielen für den Hort<br>
+      Werkbank für Bastelzimmer des Horts<br>
+      Druckkosten Schülerzeitung<br>
+      Brandschutzsbilderrahmen für Schulhaus<br>
+      Lebensmittelgutscheine Kinderküche Hort<br>
+      T-Shirts für Schule mit Schullogo<br>
+      Übernahme Kosten Betreuungsvertrag für 1.Jahr der Bibliothekssoftware<br>
+      Miete Bühnentechnik für Schulfest<br>
+      Känguru-Wettbewerb-Kosten<br>
+      Abschiedsgeschenke Klassen 4"
+        year: "2024"
       - title: "Getränkeverkauf zum Schulfest und Schulanfang<br>
       Anschaffung Antolin Schullizenz<br>
       Weitere Ausstattungen für den Schulgartens<br>
@@ -81,6 +107,10 @@ en: &DEFAULT_EN
     text1: "Einfach den Mitgliedsantrag ausfüllen und uns per <a href=\"mailto:foerderverein.gs.erfurterstrasse@gmail.com\">E-Mail</a> schicken oder in der Schule abgeben bzw. zu Händen des Fördervereins in den Briefkasten werfen. Den Mitgliedsbeitrag am besten gleich überweisen (Kontoverbindung steht auf dem Antrag) und schon seid ihr Mitglied."
     text2: "Spenden können jederzeit gern auf unser Vereinskonto überwiesen werden. Eine Spendenbescheinigung stellen wir auf Wunsch aus."
     antrag: Mitgliedsantrag
+    empfaenger: Förderverein der Schule Erfurter Straße Leipzig e.V.
+    iban: DE40 8605 5592 1090 2628 05
+    bic: WELADE8LXXX
+    zweck: Spende
 
   sponsoren:
     title: "Sponsoren"
@@ -157,10 +187,10 @@ en: &DEFAULT_EN
     title: "Kontakt"
     section: contact
     name1: "Förderverein der Schule Erfurter Straße Leipzig e.V."
-    name2: "Grundschule Erfurter Straße"
+    name2: "Grundschule Schule am Rosental"
     street: "Erfurter Straße 14"
     city: "04155 Leipzig"
-    email: "foerderverein.gs.erfurterstrasse@gmail.com"
+    email: "fv.schule.rosental.leipzig@gmail.com"
 
   footer:
     cookies: "Wir mögen keine <img src='assets/img/cookie.gif' style='width: 18px' />, wir sind allergisch!"
